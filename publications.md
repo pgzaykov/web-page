@@ -6,6 +6,13 @@ title: Publications
 ## Journals & Conference Papers
 
 
+1. **Thermal modeling and optimal allocation of avionics safety-critical tasks on heterogeneous MPSoCs**
+<a href="https://doi.org/10.1016/j.jpdc.2025.105107" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2025-thermal.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+X. Iturbe et al.<br>
+In proc. of the Design Automation Conference (DAC), July 2024.
+
 1. **Invited: Neuromorphic Vision Modalities in the NimbleAI 3D Chip**
 <a href="https://www.nimbleai.eu/wp-content/uploads/2024/07/DAC24_NimbleAI.pdf" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
