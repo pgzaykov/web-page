@@ -3,7 +3,7 @@ layout: page
 ---
 
 I work as Sr Architect at <a href="https://codasip.com/labs/" target="_blank">Codasip Labs</a>, focused on advancements in RISC-V architectures for HPC and domain-specific acceleration (AI/ML and signal processing). 
-I oversee roadmap development, team leadership, and engagement in key projects such as Horizon Europe, Chips JU, and EuroHPC JU, fostering collaborations with academic and industrial partners.
+I oversee roadmap development, guide technical teams, and engage in key projects such as Horizon Europe, Chips JU, and EuroHPC JU, fostering collaborations across academic and industrial partners.
 
 From 2012 to 2022, I served as Lead Scientist at <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace Labs</a>, driving the development and transition of concepts into product prototypes. I was developing technical roadmaps, leading a team, generating patents and papers, architecting proof of concept designs, and actively collaborating with academia in the area of multi-cores, edge AI computing, RTOS, tools, and application customization. Notable achievements include optimizing performance, ensuring real-time properties, enhancing safety, and minimizing development costs across multiple projects.
 
