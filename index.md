@@ -7,7 +7,7 @@ I oversee roadmap development, guide technical teams, and engage in key projects
 
 From 2012 to 2022, I served as Lead Scientist at <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace Labs</a>, driving the development and transition of concepts into product prototypes. I was developing technical roadmaps, leading a team, generating patents and papers, architecting proof of concept designs, and actively collaborating with academia in the area of multi-cores, edge AI computing, RTOS, tools, and application customization. Notable achievements include optimizing performance, ensuring real-time properties, enhancing safety, and minimizing development costs across multiple projects.
 
-Co-authored 12+ patent applications and 25+ scientific publications.
+Co-authored 12+ patent applications and 27+ scientific publications.
 
 ## Research Interests
 * Computing platforms
