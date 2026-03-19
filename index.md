@@ -25,6 +25,6 @@ Co-authored 12+ patent applications and 27+ scientific publications.
 2007 - 2007 - Embedded Software Engineer - BEM Engineering <br>
 
 ## Education
-2007 - 2014 - PhD - Computer Engineering - TU Delft <br>
+2007 - 2012 - PhD - Computer Engineering - TU Delft <br>
 2005 - 2007 - MSc - Computer Systems and Technologies - TU Sofia <br>
 
